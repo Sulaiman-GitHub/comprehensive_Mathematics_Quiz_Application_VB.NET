@@ -1,0 +1,60 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build folders
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Rider
+.idea/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Publish
+*.Publish.xml
+
+# Files built by Visual Studio
+*.dll
+*.exe
+*.pdb
+
+# Build results of an ATL Project
+*.idb
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+
+# Visual Studio 2015 cache/options
+*.vcxproj.user
+
+# VS hosting process
+*.vshost.*
+
+# Package directories
+packages/
+
+# NuGet
+*.nupkg
+
+# Others
+*.cache
+*.log
+
+# Local DB
+*.mdf
+*.ldf
+
+# Ignore build result xml from this project if any
+Basic\ Mathematics\ Quiz.xml
