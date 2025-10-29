@@ -1,6 +1,6 @@
 # Mathematics Quiz Application
 
-A comprehensive VB.NET console application designed to test and improve mathematical skills through interactive quizzes. This application offers multiple difficulty levels and provides detailed performance tracking.
+A comprehensive VB.NET console and Form application designed to test and improve mathematical skills through interactive quizzes. This application offers multiple difficulty levels and provides detailed performance tracking.
 
 ## Features
 
